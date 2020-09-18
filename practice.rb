@@ -1,7 +1,7 @@
-def not_safe?(speed)
-
-	speed > 60 || speed < 40 ? true : false
-end	enddef not_safe?(speed)
-
-	speed > 60 || speed < 40 ? true : false
-end	end
+letter = "b"
+ 
+if letter == "a" || letter == "e" || letter ==  "i" || letter == "o" || letter == "u"
+  "vowel"
+else
+  "not a vowel"
+end
